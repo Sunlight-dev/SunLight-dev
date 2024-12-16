@@ -210,14 +210,12 @@
     </td>
   </tr>
 </table>
-  
-<br/>  
-<h3>📊 GitHub Stats:</h3>
+
+<h3>📌 Github States</h3>
+<br>
 <p align="center">
-  <a href="https://github.com/OnlyForward0613/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api?username=unitop322&count_private=true&include_all_commits=true&show_icons=true&theme=react&card_width=350" />
-  </a>
-  <a href="https://github.com/OnlyForward0613/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=unitop322&layout=compact&langs_count=8&card_width=350&theme=react" />
-  </a>
-</p>
+<p><img align="left" src="https://github-readme-stats-eight-ruby-89.vercel.app/api/top-langs?username=unitop777&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats-eight-ruby-89.vercel.app/api?username=unitop777&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p>
+<br><br><br><br><br><br><br><br><br>
+
+![footer](https://github.com/aidenwong812/aidenwong812/blob/main/footer.jpg)
