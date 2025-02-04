@@ -1,4 +1,4 @@
-<h1 align="center" title="...and I'm happy to see you here :)">🏅 Senior Software Engineer 🏅</a></h1>
+<h1 align="center" title="...and I'm happy to see you here :)">🏅 FullStack & Blockchain Developer 🏅</a></h1>
 
 <h2>🙏 Welcome to @SunLight-dev!</h2>
 
