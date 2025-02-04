@@ -2,15 +2,13 @@
 
 <h2>🙏 Welcome to @SunLight-dev!</h2>
 
-<h3>📌 Senior Blockchain & FullStack Engineer</h3>
+<h3>📌 FullStack & Blockchain Developer</h3>
 
 ⭐ Web design and Fronend Develpment with React.JS, Next.JS, Vue.JS, Angular, Svelte, Typescript, TailwindCSS.
 
-⭐ Backend Development with Node.JS, GraphQL, Golang, Django, Laravel, Slim, Flask, FastApi.
+⭐ Backend Development with Node.JS, GraphQL, Golang, Django, Laravel, Flask, FastApi.
 
 ⭐ Blockchain Development (DeFi, NFT, DApps and DEX, Smart Contract with Solidity, Rust, Solana, etc)
-
-⭐ Web Scraping and Data Mining (Python, Selenium, BeautifulSoup, Scrapy, Pandas, Numpy, etc)
 
 <br/>  
 <h3>📌 Languages and Tools</h3>
@@ -36,14 +34,6 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=threejs" width="40" height="40" alt="Three.js" />
       <br>Three.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=svelte" width="40" height="40" alt="Svelte" />
-      <br>Svelte
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nuxt" width="40" height="40" alt="Nuxt" />
-      <br>Nuxt
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="40" height="40" alt="Redux" />
@@ -84,10 +74,6 @@
       <br>Anchor
     </td>
     <td align="center" width="96">
-      <img src="https://github.com/OnlyForward0613/OnlyForward0613/blob/master/foundry.png" alt="icon" width="55" height="55" />
-      <br>Foundry
-    </td>
-    <td align="center" width="96">
       <img src="https://github.com/OnlyForward0613/OnlyForward0613/blob/master/hardhat.svg" alt="HardHat" width="55" height="55" />
       <br>HardHat
     </td>
@@ -98,10 +84,6 @@
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
       </a>
       <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=selenium" width="40" height="40" alt="Selenium" />
-      <br>Selenium
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
@@ -189,24 +171,8 @@
       <br>VsCode
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="40" height="40" alt="Nginx" />
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
       <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="Azure" />
-      <br>Azure
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=webassembly" width="40" height="40" alt="Web Assembly" />
-      <br>Web Assembly
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="40" height="40" />
-      <br>Webpack
     </td>
   </tr>
 </table>
