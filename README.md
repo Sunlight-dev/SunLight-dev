@@ -189,21 +189,15 @@
 </table>
   <br/>  
 <h3>📌 Github Statistics</h3>
-  
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/keithhetrick/github-readme-stats -->
-<!-- Streak Stats: https://github.com/keithhetrick/github-readme-streak-stats -->
+<!-- Github & Languages Stats: https://github.com/SunLight-dev/github-readme-stats -->
+<!-- Streak Stats: https://github.com/SunLight-dev/github-readme-streak-stats -->
 <!-- Change the value after ?username= to your GitHub username. -->
-<div class="stats" align="center">
 
-![SunLight's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SunLight-dev&count_private=true&theme=algolia&border_radius=20)
+  <br>
+<p align="center">
+<p><img align="left" src="https://github-readme-stats-eight-ruby-89.vercel.app/api/top-langs?username=SunLight-dev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats-eight-ruby-89.vercel.app/api?username=SunLight-dev&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p>
+<br><br><br><br><br><br><br><br><br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SunLight-dev&count_private=true&theme=algolia&border_radius=20)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SunLight-dev&layout=compact&show_icons=true&count_private=true&theme=algolia&border_radius=20)
-
-</div>
-![footer](https://github.com/aidenwong812/aidenwong812/blob/main/footer.jpg)
